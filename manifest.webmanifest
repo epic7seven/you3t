@@ -1,0 +1,17 @@
+{
+  "name": "SubFeed - 구독 영상 알림",
+  "short_name": "SubFeed",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#17171c",
+  "theme_color": "#17171c",
+  "description": "선택한 YouTube 채널의 새 영상 기록",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
